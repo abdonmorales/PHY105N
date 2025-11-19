@@ -1,3 +1,6 @@
+% Code for PHY 105N Lab 7 Data Analysis
+% This script reads q/m data from an Excel file, creates a scatterplot,
+
 % === 1. Load data ===
 T = readtable("PHY105N_Lab7Data.xlsx");
 %TableProperties = T.Properties.VariableNames;
